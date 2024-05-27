@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    "stm32f10x.h": "c",
+    "core_cm3.h": "c",
+    "oled_font.h": "c",
+    "beep.h": "c",
+    "delay.h": "c",
+    "sys.h": "c",
+    "dht11.h": "c",
+    "mq2.h": "c",
+    "stdio.h": "c",
+    "esp8266.h": "c",
+    "usart.h": "c",
+    "adc.h": "c",
+    "timer.h": "c",
+    "mqtt.h": "c",
+    "onenet.h": "c",
+    "string.h": "c"
+  }
+}
